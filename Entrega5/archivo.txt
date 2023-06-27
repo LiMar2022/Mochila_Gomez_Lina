@@ -1,3 +1,32 @@
-Hola, me conecté por Telnet
-Hola, me conecté por SSH
+Parte 1: Hola, me conecté por Telnet.
 
+Parte 2: Hola, me conecté por SSH.
+
+Parte 3: Preguntas
+
+Telnet 
+
+a) ¿Cuáles son las ventajas y desventajas de utilizar el protocolo Telnet?
+
+Ventajas:
+
+-  No pone límite a la hora de acceder a los recursos del sistema, siempre y cuando cuente con los permisos necesarios para ello.
+-  Permite el acceso remoto a otro equipo y esto facilita optimizar el tiempo.
+
+Desventajas:
+
+-  No cifra ningún dato enviado a través de la conexión.
+-  Solo es capaz de mostrar texto y números, sin gráficos ni color.
+
+b) ¿Cuáles son las ventajas y desventajas de utilizar el protocolo SSH?
+
+Ventajas
+
+-  Permite a los usuarios controlar y modificar servidores remotos a través de internet.
+-  Permite autentificación y encriptación para garantizar que las comunicaciones sean seguras.
+
+Diferencias entre SSH y Telnet
+
+- Telnet es inseguro y SHH permite encriptación de la información.
+- Telnet no requiere autentificación y SHH si lo demanda.
+- Telnet trabaja con una red pública y SHH con una red privada, ademas, usan puertos diferentes.
